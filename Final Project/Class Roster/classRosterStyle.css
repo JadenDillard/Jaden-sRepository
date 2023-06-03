@@ -1,0 +1,22 @@
+body {
+    background-color: white;
+}
+
+td {
+    background-color: yellow;
+    padding-left: 20%;
+    padding-right: 20%;
+    padding-bottom: 20%;
+    padding-top: 20%;
+}
+
+table,
+th,
+td {
+    border: 1px black solid;
+}
+
+#JadenTr {
+    background-color: red;
+
+}
